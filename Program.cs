@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * This C# Console application code is meant to
+ * demonstrate a method that prints a
+ * name after getting input from a user.
+ * It also prints a shorthand version of the name.
+ */
+
+using System;
 using System.Linq;
 
 namespace ISM4300Method
